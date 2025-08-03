@@ -1,6 +1,8 @@
-# Pokémon Emerald
+# The Gray Garden - GBA Port
 
-This is a decompilation of Pokémon Emerald.
+This is a remake of The Gray Garden, Now ported to the GBA.
+
+Note that This is a BIG Wip. This is currently based on Pokemon Emerald, so it will require a legally obtained ROM.
 
 It builds the following ROM:
 
@@ -8,4 +10,4 @@ It builds the following ROM:
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+Credits to PRET.
